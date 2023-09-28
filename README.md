@@ -9,7 +9,7 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
 
-*Implementações:
+#Implementações:
 
 * A enumeração chamada Nivel, foi utilizada para representar os níveis de dificuldade das formações educacionais oferecidas pela "DIO" (Digital Innovation One).
 * Como a classe Usuario serve para representar os indivíduos que se inscrevem nas formações oferecidas pela "DIO", os atributos nome, idade, cidade e estado foram adicionados para uma riqueza maior de informações.
